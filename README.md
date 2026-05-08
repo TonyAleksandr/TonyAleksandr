@@ -52,8 +52,4 @@ Also interested in server administration, DevOps and automation.
 - SPmBot / SPBot
 - SPmChat
 - spm-pixel-battle
-
-### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyAleksandr&show_icons=true&theme=dark&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyAleksandr&layout=compact&theme=dark&hide_border=true)
+- Lapis - discord bot
